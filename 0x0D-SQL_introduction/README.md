@@ -7,7 +7,7 @@
 This my first project about SQL in ALx-Africa, explaining the nittygrity of SQL. 
 In this repository contains the command to display basics in SQL.
 
-# General
+## General
 
 - What’s a database
 - What’s a relational database
