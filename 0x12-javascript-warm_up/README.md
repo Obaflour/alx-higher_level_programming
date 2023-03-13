@@ -1,6 +1,8 @@
-![Javascript-535 png](https://user-images.githubusercontent.com/111001224/224831418-8dfc2eeb-9656-46f0-95b6-42242f5a2468.jpg)
-
 # 0x12. JavaScript - Warm up
+
+
+
+![Javascript-535 png](https://user-images.githubusercontent.com/111001224/224831418-8dfc2eeb-9656-46f0-95b6-42242f5a2468.jpg)
 
 ## General
 
