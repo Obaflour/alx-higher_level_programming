@@ -12,7 +12,7 @@
 - What ORM means
 - How to map a Python Class to a MySQL table
 
-## Requirement
+## Requirements
 
 ### General
 
